@@ -12,6 +12,6 @@ L'objectif principal de ce projet est de proposer un k-means clustering de Brist
 
 :arrow_forward: Kmeans.ipynb : Jupyter Notebook qui contient les lignes de codes avec les sorties.
 
-:arrow_forward: La Map trouvée à l'issu du projet et qui représente la répartition des différents clusters dans la ville Brisbane.
+:arrow_forward: La Map trouvée à l'issu du projet, qui représente la répartition des différents clusters dans la ville Brisbane.
 
 <img src = "exported/map.png">
